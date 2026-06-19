@@ -1,16 +1,12 @@
-## Hi there 👋
+👋 Hi, I'm Amilliey Pakhrin Tamang.
 
-<!--
-**amillieypakhrin/amillieypakhrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA 7th Semester Student.
+📊 Aspiring Data Analyst passionate about turning data into insights.
+🐍 Working with Python for data cleaning and analysis.
+🗄️ Using SQL and PostgreSQL for querying and managing data.
+📈 Building interactive dashboards in Power BI.
+📉 Exploring data through EDA and visualization.
+🔍 Currently working on real-world analytics projects.
+📚 Continuously learning Data Analytics and Business Intelligence.
+🚀 Seeking internship opportunities to gain industry experience.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
