@@ -10,7 +10,7 @@ Currently I've been working on real-world data analytics projects and building m
 
 This is a fresh profile where i'll be updating smaller projects, experiments and things i've been currently working on. Everything here is built from scratch no copy paste template.
 
-======================================================================================================================================================================================================================
+================================================================================================================================================
 Tools & Tech:
 Python, SQL
 Data cleaning, Data Visualization, Exploratory Data Analysis (EDA), Statistical Analysis
